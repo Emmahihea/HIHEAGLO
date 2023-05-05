@@ -1,0 +1,8 @@
+a)Git pull permet de mettre à jour le dépôt local vers les dernières validations alors que git fetch permet de récupérer les dernières modifications d'une branche ou d'un ensemble de branches
+
+b) Pour annuler les modifications locales non validées dans Git nous pouvons utiliser git reset HEAD <nomdufichier>
+
+c)La commande pour supprimer une branche distante dans Git est git push <nomdu-referentiel> --delete <nom-de-branche>
+
+d)Pour voir l'historique des modifications pour un fichier spécifique dans git on utilise la commande git log
+
